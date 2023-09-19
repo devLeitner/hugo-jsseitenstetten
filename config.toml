@@ -1,0 +1,19 @@
+baseURL = 'https://devleitner.github.io/hugo-jsseitenstetten/'
+title = 'Jungschar Seitenstetten'
+theme = 'ananke'
+
+# sectionPagesMenu = "main"
+
+
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.de]
+    contentDir = "content/de"
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = ''
+    weight = 1
