@@ -8,4 +8,4 @@ menu: main
 ---
 
 
-[comment]: <> ({{< form-contact action="https://example.com"  >}})
+
